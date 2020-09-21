@@ -1,0 +1,9 @@
+# Volumes
+*-volume/*
+!*-volume/.keep
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
